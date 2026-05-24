@@ -67,11 +67,7 @@ Maven n'est pas obligatoire : le projet inclut **mvnw.cmd** (Maven Wrapper).
 
 **PowerShell** (dans le dossier du projet) :
 
-```powershell
-cd "c:\Users\rayen\Downloads\projet fares"
-.\mvnw.cmd clean compile
-.\mvnw.cmd javafx:run
-```
+
 
 Si `java` n'est pas reconnu, installez le JDK 17 :
 
