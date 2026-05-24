@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Catalogue Revetement
 
 Application JavaFX developpee dans le cadre du module **Informatique 2** (INSA). Elle permet de gerer un catalogue de revetements et de calculer un **devis estimatif** pour un batiment d'habitation.
@@ -116,3 +117,6 @@ Ou depuis un IDE (IntelliJ, Eclipse, VS Code) : lancer la classe `fr.insa.batime
 ## Auteur
 
 Projet pedagogique — Informatique 2.
+=======
+# Projet_Devis_Batiment_INSA
+>>>>>>> 225f7fa9b6f3002ddf9abc1314f87eaa53c82969
